@@ -1,0 +1,9 @@
+MeatBall,Tabby,4,19,http://i.dailymail.co.uk/i/pix/2014/01/31/article-2548957-1B18E81700000578-293_638x627.jpg
+Garfield,OrangeWhite Tabby,10,17.2,http://msnbcmedia.msn.com/j/today/sections/blogs/animaltracks/june%202012/garfield_scale1.nbcnews-ux-1024-900.jpg
+Katy,Siamese,10,30,https://i0.wp.com/worth-seeing.com/wp-content/uploads/2017/12/Fat-cat-123-696x521.jpg
+Mitzi,Maine Coon,2,22.3,https://metrouk2.files.wordpress.com/2017/05/pri_39765840.jpg?w=620&h=425&crop=1
+Tubcat,Tabby,5,44.2,https://www.tubcat.com/TUBCAT.jpg
+Riley,Maine Coon,2,14.8,http://static.neatorama.com/images/2006-05/riley-maine-coon-cat.jpg
+Xu Jirong,Dragon Li,4,15.22,http://static.neatorama.com/images/2008-04/xu-jirong-fat-cat.jpg
+Munch,Scottish Fold,4,3.5,https://i.pinimg.com/originals/ed/22/82/ed228247497e5b2d2a243a8513d21386.jpg
+Inka,Birmanese,1,10,https://imgur.com/a/e2atK

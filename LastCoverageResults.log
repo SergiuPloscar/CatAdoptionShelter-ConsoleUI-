@@ -1,0 +1,62 @@
+[2018-04-05 18:59:52] [info] Start Program:
+Path:"C:\Users\SergiuP\source\repos\Lab5_6Pr1\Debug\Lab5_6Pr1.exe"
+Arguments:
+Working directory: "C:\Users\SergiuP\source\repos\Lab5_6Pr1\Lab5_6Pr1\"
+Modules: Selected: C:\Users\SergiuP\source\repos\Lab5_6Pr1\Debug\Lab5_6Pr1.exe Excluded: 
+Sources: Selected: C:\Users\SergiuP\source\repos\Lab5_6Pr1\Lab5_6Pr1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\SergiuP\AppData\Local\Temp\kpaw5ofg.pzi 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-04-05 18:59:52] [info] Module: C:\Users\SergiuP\source\repos\Lab5_6Pr1\Debug\Lab5_6Pr1.exe is selected because it matches selected pattern: C:\Users\SergiuP\source\repos\Lab5_6Pr1\Debug\Lab5_6Pr1.exe
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\ntdll.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\kernel32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\shell32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\cfgmgr32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\windows.storage.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\combase.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\rpcrt4.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\sspicli.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\cryptbase.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\bcryptprimitives.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\sechost.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\advapi32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\shlwapi.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:52] [info] Module: C:\Windows\SysWOW64\gdi32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\user32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\kernel.appcore.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\SHCore.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\powrprof.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\profapi.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\msvcp140d.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\imm32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\uxtheme.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\ole32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\propsys.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\oleaut32.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\clbcatq.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\actxprxy.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\urlmon.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\iertutil.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\actxprxy.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\urlmon.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\iertutil.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\actxprxy.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\urlmon.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\iertutil.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\actxprxy.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\urlmon.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] Module: C:\Windows\SysWOW64\iertutil.dll is skipped because it matches no selected patterns
+[2018-04-05 18:59:53] [info] ----------------------------------------------------
+[2018-04-05 18:59:53] [info] Coverage binary generated in file: C:\Users\SergiuP\AppData\Local\Temp\kpaw5ofg.pzi
+[2018-04-05 18:59:53] [info] ----------------------------------------------------
